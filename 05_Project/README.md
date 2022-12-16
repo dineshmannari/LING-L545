@@ -1,4 +1,4 @@
-# Project
+# Image captioning tool using CNN And LSTM
 
 `Deep learning is used in our model for image
 captioning. For image classification, we primarily
